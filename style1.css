@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    background-color:#778899 ;
+}
+
+h1,h2 {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    background-image: linear-gradient(to right, #ffffff,blueviolet);
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+.text-big{
+    background-color: blueviolet;
+}
+.link-text{
+    background-color:#778899;
+}
+p{
+        text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    background-image: linear-gradient(to right, #96C5F7,blueviolet);
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.link-header {
+    text-decoration: none;
+    font-size: 20px;
+    color: navy;
+    background-image: linear-gradient(to right, #007bff,rgb(171, 126, 213));
+    padding: 10px;
+    border-radius: 10px;
+}
+
